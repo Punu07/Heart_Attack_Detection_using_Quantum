@@ -91,3 +91,22 @@ The table below summarizes the classification accuracy of each model tested on t
     ├── confusion_matrices/
     ├── roc_curves/
     └── accuracy_reports/
+
+📁 Heart-Disease-Quantum-ML
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📁 data
+│   └── Cleveland Dataset.csv
+├── 📁 models
+│   ├── SVM.py
+│   ├── ANN.py
+│   ├── QSVC.py
+│   ├── QNN.py
+│   ├── VQC.py
+│   └── Bagging_QSVC.py
+├── 📁 notebooks
+│   └── QSVC_SVM_QNN_ANN_VQC_BaggingQSVC.ipynb
+└── 📁 outputs
+    ├── confusion_matrices/
+    ├── roc_curves/
+    └── accuracy_reports/
