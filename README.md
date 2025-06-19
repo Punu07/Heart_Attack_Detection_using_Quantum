@@ -72,13 +72,7 @@ The table below summarizes the classification accuracy of each model tested on t
 
 ---
 
-## 🛠️ Requirements
-
-To run this project locally, ensure you have the following dependencies installed:
-
-```bash
-pip install qiskit qiskit-machine-learning scikit-learn pandas matplotlib seaborn
-##GitHub Portfolio
+##  GitHub Portfolio
 📁 Heart-Disease-Quantum-ML
 ├── 📄 README.md
 ├── 📄 requirements.txt
