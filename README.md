@@ -78,3 +78,21 @@ To run this project locally, ensure you have the following dependencies installe
 
 ```bash
 pip install qiskit qiskit-machine-learning scikit-learn pandas matplotlib seaborn
+📁 Heart-Disease-Quantum-ML
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📁 data
+│   └── Cleveland Dataset.csv
+├── 📁 models
+│   ├── SVM.py
+│   ├── ANN.py
+│   ├── QSVC.py
+│   ├── QNN.py
+│   ├── VQC.py
+│   └── Bagging_QSVC.py
+├── 📁 notebooks
+│   └── QSVC_SVM_QNN_ANN_VQC_BaggingQSVC.ipynb
+└── 📁 outputs
+    ├── confusion_matrices/
+    ├── roc_curves/
+    └── accuracy_reports/
